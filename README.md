@@ -1,6 +1,6 @@
 # Metropolis
 
-This is a simple implementation of the Neighbor Discovery Protocol (NDP). This application supports up to a maximum of 32 neighbors after which new neighbors get discarded until the previous ones disappear. To support more than 32 neighbors, simply modify the #define in NDP.h and recompile. Be careful though, as higher values could break the interface. Under normal situations, beacon packets are sent every three seconds.
+<p align="justify">This is a simple implementation of the Neighbor Discovery Protocol (NDP). This application supports up to a maximum of 32 neighbors after which new neighbors get discarded until the previous ones disappear. To support more than 32 neighbors, simply modify the #define in NDP.h and recompile. Be careful though, as higher values could break the interface. Under normal situations, beacon packets are sent every three seconds.</p>
 
 ### Running
 ```bash
