@@ -21,7 +21,7 @@ $ sudo ./Metropolis
 
 ### Stress Testing
 
-Stress Testing mode sends a flood of beacon packets with randomized source addresses allowing you to stress test systems with large numbers of neighbors. May not work on restricted systems.
+<p align="justify">Stress Testing mode sends a flood of beacon packets with randomized source addresses allowing you to stress test systems with large numbers of neighbors. May not work on restricted systems.</p>
 
 ### Authors
 **D. Krutsko**
